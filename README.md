@@ -38,4 +38,25 @@ I want to link to [Glossier](https://www.glossier.com/) ~~but why bother~~
 
 ![alt text](https://raw.githubusercontent.com/carpentries/carpentries.org/main/images/TheCarpentries-opengraph.png)
 
+[Carpentries Webpage][carpentries]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[carpentries]: https://carpentries.org/
+
 
