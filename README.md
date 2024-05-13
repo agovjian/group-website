@@ -22,3 +22,20 @@ break
 
 hard line  
 break
+
+
+## Practice with Markdown
+
+I want to link to [Glossier](https://www.glossier.com/) ~~but why bother~~
+
+### Another Heading Woo!
+
+1. Is
+2. This
+3. A
+4. Numbered
+5. List?
+
+![alt text](https://raw.githubusercontent.com/carpentries/carpentries.org/main/images/TheCarpentries-opengraph.png)
+
+
